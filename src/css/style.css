@@ -1,0 +1,11 @@
+nav .collapse ul li{
+  
+    
+
+}
+nav .collapse ul li::after{
+    content: "";
+    display: block;
+    border-bottom: 1px solid #fff;
+    margin-top: 10px
+}
