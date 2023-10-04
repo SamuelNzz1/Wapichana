@@ -27,6 +27,7 @@ a{
     color:#fff;
     font-size: 15px;
 }
+
 .divulg .text{
     font-size: 15px;
 }
@@ -73,3 +74,14 @@ a{
     width: 100%;    
     height: 50vh;
 }
+
+.animated-letter {
+    color: blue;
+    transition: transform 0.3s ease; /* Adiciona uma transição suave para a transformação */
+    display: inline-block; /* Garante que a letra ocupe apenas o espaço dela */
+  }
+  
+  /* Estilo quando o mouse passa sobre a letra */
+  .animated-letter:hover {
+    transform: translateX(20px); /* Move a letra 20 pixels para a direita ao passar o mouse */
+  }
