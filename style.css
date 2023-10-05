@@ -88,3 +88,6 @@ a{
   .animated-letter:hover {
     transform: translateX(20px); /* Move a letra 20 pixels para a direita ao passar o mouse */
   }
+  .break{
+    text-align: justify;
+  }
