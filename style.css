@@ -146,7 +146,7 @@ a{
     color: white;
     border-top-right-radius: 10px ;
     border-bottom-right-radius: 10px;
-    border: 1px solid #21273ccc;
+    border: 3px solid #21273ccc;
 }
 .info-text{
     min-height: auto;
@@ -164,7 +164,7 @@ a{
 .img-sec img{
     width: 100%;    
     height: 50vh;
-    border: 2px solid #21273ccc;
+    border: 3px solid #21273ccc;
 }
 
 .animated-letter {
